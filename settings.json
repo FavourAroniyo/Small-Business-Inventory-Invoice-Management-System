@@ -1,0 +1,9 @@
+{
+  "business_name": "Demo Small Business",
+  "business_address": "Abuja, Nigeria",
+  "currency": "NGN",
+  "tax_rate": 7.5,
+  "reorder_cover_days": 14,
+  "ai_enabled": true,
+  "gemini_delay_seconds": 1.0
+}

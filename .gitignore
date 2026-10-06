@@ -1,0 +1,10 @@
+.env
+*.db
+__pycache__/
+.pytest_cache/
+*.pyc
+supplier_docs/imported/
+supplier_docs/needs_review/
+invoices/
+reports/
+backups/
